@@ -1,10 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Nalka\\OneDrive\\Desktop\\Program\\",
+  "WorkspaceRootPath": "C:\\Users\\Nalka\\OneDrive\\Desktop\\Program_Game-\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F6CE2A38-1D76-4734-A348-82975CCD0B45}|Program.vcxproj|C:\\Users\\Nalka\\OneDrive\\Desktop\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F6CE2A38-1D76-4734-A348-82975CCD0B45}|Program.vcxproj|C:\\Users\\Nalka\\OneDrive\\Desktop\\Program_Game-\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F6CE2A38-1D76-4734-A348-82975CCD0B45}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32980592-D45C-4CBA-B4A7-F665B29FA06B}|..\\Class2th (Class)\\Class2th (Class).vcxproj|C:\\Users\\Nalka\\OneDrive\\Desktop\\Program_Game-\\Class2th (Class)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B12B0FED-91C4-45C2-B48C-A6731D7E0019}|..\\Class1th (Stream)\\Class1th (Stream).vcxproj|C:\\Users\\Nalka\\OneDrive\\Desktop\\Program_Game-\\Class1th (Stream)\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +20,42 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Nalka\\OneDrive\\Desktop\\Program_Game-\\Class2th (Class)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class2th (Class)\\Source.cpp",
+              "ToolTip": "C:\\Users\\Nalka\\OneDrive\\Desktop\\Program_Game-\\Class2th (Class)\\Source.cpp",
+              "RelativeToolTip": "..\\Class2th (Class)\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-11T12:38:46.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Nalka\\OneDrive\\Desktop\\Program_Game-\\Class1th (Stream)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class1th (Stream)\\Source.cpp",
+              "ToolTip": "C:\\Users\\Nalka\\OneDrive\\Desktop\\Program_Game-\\Class1th (Stream)\\Source.cpp",
+              "RelativeToolTip": "..\\Class1th (Stream)\\Source.cpp",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAIwGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-11T11:11:34.814Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cpp",
-              "DocumentMoniker": "C:\\Users\\Nalka\\OneDrive\\Desktop\\Program\\Program.cpp",
+              "DocumentMoniker": "C:\\Users\\Nalka\\OneDrive\\Desktop\\Program_Game-\\Program\\Program.cpp",
               "RelativeDocumentMoniker": "Program.cpp",
-              "ToolTip": "C:\\Users\\Nalka\\OneDrive\\Desktop\\Program\\Program.cpp",
+              "ToolTip": "C:\\Users\\Nalka\\OneDrive\\Desktop\\Program_Game-\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-11T10:13:04.023Z",
               "EditorCaption": ""
