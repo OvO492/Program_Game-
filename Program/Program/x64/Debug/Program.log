@@ -1,2 +1,2 @@
 ﻿  Program.cpp
-  Program.vcxproj -> C:\Users\Nalka\OneDrive\Desktop\Program_Game-\Program\x64\Debug\Program.exe
+LINK : fatal error LNK1201: 'C:\Users\Nalka\OneDrive\Desktop\Program_Game-\Program\x64\Debug\Program.pdb' 프로그램 데이터베이스를 쓰는 동안 오류가 발생했습니다. 디스크 공간이 부족한지, 경로가 잘못되었는지 또는 권한이 없는지 확인하십시오.
