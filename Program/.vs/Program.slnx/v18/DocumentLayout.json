@@ -7,16 +7,19 @@
       "RelativeMoniker": "D:0:0:{F6CE2A38-1D76-4734-A348-82975CCD0B45}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6CE2A38-1D76-4734-A348-82975CCD0B45}|Program.vcxproj|C:\\Users\\Nalka\\OneDrive\\Desktop\\Program_Game-\\Program\\Potian.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F6CE2A38-1D76-4734-A348-82975CCD0B45}|Program.vcxproj|solutionrelative:Potian.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F6CE2A38-1D76-4734-A348-82975CCD0B45}|Program.vcxproj|C:\\Users\\Nalka\\OneDrive\\Desktop\\Program_Game-\\Program\\Message.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6CE2A38-1D76-4734-A348-82975CCD0B45}|Program.vcxproj|solutionrelative:Message.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6CE2A38-1D76-4734-A348-82975CCD0B45}|Program.vcxproj|C:\\Users\\Nalka\\OneDrive\\Desktop\\Program_Game-\\Program\\Consumable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F6CE2A38-1D76-4734-A348-82975CCD0B45}|Program.vcxproj|solutionrelative:Consumable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F6CE2A38-1D76-4734-A348-82975CCD0B45}|Program.vcxproj|C:\\Users\\Nalka\\OneDrive\\Desktop\\Program_Game-\\Program\\Message.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6CE2A38-1D76-4734-A348-82975CCD0B45}|Program.vcxproj|solutionrelative:Message.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6CE2A38-1D76-4734-A348-82975CCD0B45}|Program.vcxproj|C:\\Users\\Nalka\\OneDrive\\Desktop\\Program_Game-\\Program\\Consumable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F6CE2A38-1D76-4734-A348-82975CCD0B45}|Program.vcxproj|solutionrelative:Consumable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F6CE2A38-1D76-4734-A348-82975CCD0B45}|Program.vcxproj|C:\\Users\\Nalka\\OneDrive\\Desktop\\Program_Game-\\Program\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6CE2A38-1D76-4734-A348-82975CCD0B45}|Program.vcxproj|solutionrelative:stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{679E99CF-CD30-427A-B162-6A52F77D97E2}|..\\Class4th (Inheritance)\\Class4th (Inheritance).vcxproj|C:\\Users\\Nalka\\OneDrive\\Desktop\\Program_Game-\\Class4th (Inheritance)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BAC28D6B-BE33-4EFA-9453-C217D973728D}|..\\Class3th (Constructor \u0026 Destrucctor)\\Class3th (Constructor \u0026 Destrucctor).vcxproj|C:\\Users\\Nalka\\OneDrive\\Desktop\\Program_Game-\\Class3th (Constructor \u0026 Destrucctor)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -38,50 +41,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Potian.h",
-              "DocumentMoniker": "C:\\Users\\Nalka\\OneDrive\\Desktop\\Program_Game-\\Program\\Potian.h",
-              "RelativeDocumentMoniker": "Potian.h",
-              "ToolTip": "C:\\Users\\Nalka\\OneDrive\\Desktop\\Program_Game-\\Program\\Potian.h",
-              "RelativeToolTip": "Potian.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-19T12:23:11.301Z",
+              "Title": "Message.cpp",
+              "DocumentMoniker": "C:\\Users\\Nalka\\OneDrive\\Desktop\\Program_Game-\\Program\\Message.cpp",
+              "RelativeDocumentMoniker": "Message.cpp",
+              "ToolTip": "C:\\Users\\Nalka\\OneDrive\\Desktop\\Program_Game-\\Program\\Message.cpp",
+              "RelativeToolTip": "Message.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-20T12:20:06.577Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Consumable.cpp",
-              "DocumentMoniker": "C:\\Users\\Nalka\\OneDrive\\Desktop\\Program_Game-\\Program\\Consumable.cpp",
-              "RelativeDocumentMoniker": "Consumable.cpp",
-              "ToolTip": "C:\\Users\\Nalka\\OneDrive\\Desktop\\Program_Game-\\Program\\Consumable.cpp",
-              "RelativeToolTip": "Consumable.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-19T12:09:13.302Z",
+              "Title": "Message.h",
+              "DocumentMoniker": "C:\\Users\\Nalka\\OneDrive\\Desktop\\Program_Game-\\Program\\Message.h",
+              "RelativeDocumentMoniker": "Message.h",
+              "ToolTip": "C:\\Users\\Nalka\\OneDrive\\Desktop\\Program_Game-\\Program\\Message.h",
+              "RelativeToolTip": "Message.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-20T12:11:35.803Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Consumable.h",
-              "DocumentMoniker": "C:\\Users\\Nalka\\OneDrive\\Desktop\\Program_Game-\\Program\\Consumable.h",
-              "RelativeDocumentMoniker": "Consumable.h",
-              "ToolTip": "C:\\Users\\Nalka\\OneDrive\\Desktop\\Program_Game-\\Program\\Consumable.h",
-              "RelativeToolTip": "Consumable.h",
+              "Title": "stdafx.h",
+              "DocumentMoniker": "C:\\Users\\Nalka\\OneDrive\\Desktop\\Program_Game-\\Program\\stdafx.h",
+              "RelativeDocumentMoniker": "stdafx.h",
+              "ToolTip": "C:\\Users\\Nalka\\OneDrive\\Desktop\\Program_Game-\\Program\\stdafx.h",
+              "RelativeToolTip": "stdafx.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-19T12:09:03.966Z",
+              "WhenOpened": "2026-02-20T12:05:30.994Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Nalka\\OneDrive\\Desktop\\Program_Game-\\Class4th (Inheritance)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class4th (Inheritance)\\Source.cpp",
+              "ToolTip": "C:\\Users\\Nalka\\OneDrive\\Desktop\\Program_Game-\\Class4th (Inheritance)\\Source.cpp",
+              "RelativeToolTip": "..\\Class4th (Inheritance)\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-20T11:12:43.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Nalka\\OneDrive\\Desktop\\Program_Game-\\Class3th (Constructor \u0026 Destrucctor)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class3th (Constructor \u0026 Destrucctor)\\Source.cpp",
@@ -93,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "delete_scalar.cpp",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.50.35717\\crt\\src\\vcruntime\\delete_scalar.cpp",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.50.35717\\crt\\src\\vcruntime\\delete_scalar.cpp",
@@ -105,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Nalka\\OneDrive\\Desktop\\Program_Game-\\Class2th (Class)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class2th (Class)\\Source.cpp",
@@ -117,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Nalka\\OneDrive\\Desktop\\Program_Game-\\Class1th (Stream)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class1th (Stream)\\Source.cpp",
@@ -135,7 +151,7 @@
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\Nalka\\OneDrive\\Desktop\\Program_Game-\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAC8AAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-11T10:13:04.023Z",
               "EditorCaption": ""
