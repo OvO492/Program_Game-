@@ -2,6 +2,7 @@
 #include "Strength.h"
 #include "Dexterity.h"
 #include "Wisdom.h"
+#include <iostream>
 
 using namespace std;
 
@@ -29,17 +30,17 @@ int main()
 #pragma region 오버라이딩
 	// 상위 클래스의 함수를 하위 클래스애서 재정의하여 사용하는 방법입니다.
 	
-	Strength strength;
+	// Strength strength;
 
-	Dexterity dexterity;
+	// Dexterity dexterity;
 
-	Wisdom wisdom;
+	// Wisdom wisdom;
 
-	strength.Enhance();
+	// strength.Enhance();
 
-	dexterity.Enhance();
+	// dexterity.Enhance();
 
-	wisdom.Enhance();
+	// wisdom.Enhance();
 
 #pragma endregion
 
@@ -48,6 +49,44 @@ int main()
 	// 실행 시간에 상위 클래스에 대한 참조로
 	// 하위 클래스에 재정의된 함수를 호출하는 함수입니다
 
+	Stat* pointer = nullptr;
+
+	int choice = 0;;
+
+	while (true)
+	{
+		cout << " 1. STRENGTH " << " 2. DEXTERITY" << " 3. WISDOM" << endl;
+
+		cout << "Choice : ";
+
+		cin >> choice;
+
+		switch (choice)
+		{
+		case 1: pointer = new Strength;
+			break;
+		case 2: pointer = new Dexterity;
+			break;
+		case 3: pointer = new Wisdom;
+			break;
+		default: cout << "Exception\n" << endl;
+			continue;
+		}
+
+		// 가상 함수는 한 개 이상의 가상 함수를 포함하는 클래스가
+		// 있을 때 객체 주소에 가상함수 테이블을 추가합니다.
+		
+		pointer->Enhance();
+
+		delete pointer;
+
+		break;
+
+	}
+
+	// 가상 함수의 경우 가상 함수 테이블을 사용하며 호출되는
+	// 함수를 실행 시간에 결정하며, 정적으로 선언된 함수는 
+	// 가상 함수로 선언할 수 없습니다.
 #pragma endregion
 
 
