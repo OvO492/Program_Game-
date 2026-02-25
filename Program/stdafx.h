@@ -1,2 +1,4 @@
-#include "Stat.h"
+#pragma once
 #include <iostream>
+
+using namespace std;

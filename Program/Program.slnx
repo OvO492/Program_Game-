@@ -7,5 +7,6 @@
   <Project Path="../Class2th (Class)/Class2th (Class).vcxproj" Id="32980592-d45c-4cba-b4a7-f665b29fa06b" />
   <Project Path="../Class3th (Constructor &amp; Destrucctor)/Class3th (Constructor &amp; Destrucctor).vcxproj" Id="bac28d6b-be33-4efa-9453-c217d973728d" />
   <Project Path="../Class4th (Inheritance)/Class4th (Inheritance).vcxproj" Id="679e99cf-cd30-427a-b162-6a52f77d97e2" />
+  <Project Path="../Class5th (Polymorphism)/Class5th (Polymorphism).vcxproj" Id="6717e477-4850-4279-bcea-82733f7235bc" />
   <Project Path="Program.vcxproj" Id="f6ce2a38-1d76-4734-a348-82975ccd0b45" />
 </Solution>
