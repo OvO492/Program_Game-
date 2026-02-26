@@ -1,25 +1,21 @@
 ﻿#include "stdafx.h"
-#include "Stone.h"
-#include "Concrete.h"
+#include "Vector2.h"
 
-using namespace std;
 
 int main()
 {
+#pragma region 캡슐화
+	// 객체 속성과 기능을 하나의 단위로 합친 다음 외부에서
+	// 필요한 정보만 접근할 수 있도록 제한하는 기능입니다.
 
-#pragma region 추상화
-	// 복잡한 시스템이나 객체의 내부애 있는 세부 사항을 숨기고,
-	// 필요한 부분만 외부에서 사용할 수 있도록 단순화시키는 작업입니다.
+	Vector2 point1D(1, 0);
+	Vector2 point2D(0, 1);
 
-	Stone stone;
-	Concrete concrete;
+	// Vector2 direction point1D + point2D;
 
-	stone.Describe();
 
-	concrete.Describe();
 
 #pragma endregion
-
 
 
 	return 0;
