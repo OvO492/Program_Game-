@@ -7,12 +7,10 @@
       "RelativeMoniker": "D:0:0:{F6CE2A38-1D76-4734-A348-82975CCD0B45}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6CE2A38-1D76-4734-A348-82975CCD0B45}|Program.vcxproj|C:\\Users\\Nalka\\Desktop\\Program_Game-\\Program\\Vector2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F6CE2A38-1D76-4734-A348-82975CCD0B45}|Program.vcxproj|solutionrelative:Vector2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{31EBAA05-D6EC-4130-9385-DE4DA907AF2B}|..\\Class7th (Encapsulation)\\Class7th (Encapsulation).vcxproj|C:\\Users\\Nalka\\Desktop\\Program_Game-\\Class7th (Encapsulation)\\Vector2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6CE2A38-1D76-4734-A348-82975CCD0B45}|Program.vcxproj|C:\\Users\\Nalka\\Desktop\\Program_Game-\\Program\\Vector2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F6CE2A38-1D76-4734-A348-82975CCD0B45}|Program.vcxproj|solutionrelative:Vector2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{31EBAA05-D6EC-4130-9385-DE4DA907AF2B}|..\\Class7th (Encapsulation)\\Class7th (Encapsulation).vcxproj|C:\\Users\\Nalka\\Desktop\\Program_Game-\\Class7th (Encapsulation)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F6CE2A38-1D76-4734-A348-82975CCD0B45}|Program.vcxproj|C:\\Users\\Nalka\\Desktop\\Program_Game-\\Program\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -53,26 +51,26 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Vector2.cpp",
-              "DocumentMoniker": "C:\\Users\\Nalka\\Desktop\\Program_Game-\\Program\\Vector2.cpp",
-              "RelativeDocumentMoniker": "Vector2.cpp",
-              "ToolTip": "C:\\Users\\Nalka\\Desktop\\Program_Game-\\Program\\Vector2.cpp",
-              "RelativeToolTip": "Vector2.cpp",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAkwDMAAAAOAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Nalka\\Desktop\\Program_Game-\\Class7th (Encapsulation)\\Vector2.cpp",
+              "RelativeDocumentMoniker": "..\\Class7th (Encapsulation)\\Vector2.cpp",
+              "ToolTip": "C:\\Users\\Nalka\\Desktop\\Program_Game-\\Class7th (Encapsulation)\\Vector2.cpp",
+              "RelativeToolTip": "..\\Class7th (Encapsulation)\\Vector2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-03T08:52:50.608Z",
+              "WhenOpened": "2026-03-03T11:44:18.11Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Vector2.h",
-              "DocumentMoniker": "C:\\Users\\Nalka\\Desktop\\Program_Game-\\Program\\Vector2.h",
-              "RelativeDocumentMoniker": "Vector2.h",
-              "ToolTip": "C:\\Users\\Nalka\\Desktop\\Program_Game-\\Program\\Vector2.h",
-              "RelativeToolTip": "Vector2.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-26T12:19:21.235Z",
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Nalka\\Desktop\\Program_Game-\\Class7th (Encapsulation)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class7th (Encapsulation)\\Source.cpp",
+              "ToolTip": "C:\\Users\\Nalka\\Desktop\\Program_Game-\\Class7th (Encapsulation)\\Source.cpp",
+              "RelativeToolTip": "..\\Class7th (Encapsulation)\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-03T11:37:11.201Z",
               "EditorCaption": ""
             },
             {
@@ -97,7 +95,8 @@
               "RelativeToolTip": "stdafx.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-25T12:05:56.734Z"
+              "WhenOpened": "2026-02-25T12:05:56.734Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -119,7 +118,7 @@
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\Nalka\\Desktop\\Program_Game-\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-11T10:13:04.023Z",
               "EditorCaption": ""
