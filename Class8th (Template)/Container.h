@@ -1,0 +1,17 @@
+#pragma once
+template <typename T>
+class Container
+{
+private:
+	int size;
+	int index;
+
+	T* list;
+public:
+	Container(int allocateSize);
+
+	void push(T data);
+
+	~Container();
+};
+
