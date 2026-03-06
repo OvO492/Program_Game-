@@ -1,0 +1,15 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../Class1th (Stream)/Class1th (Stream).vcxproj" Id="b12b0fed-91c4-45c2-b48c-a6731d7e0019" />
+  <Project Path="../Class2th (Class)/Class2th (Class).vcxproj" Id="32980592-d45c-4cba-b4a7-f665b29fa06b" />
+  <Project Path="../Class3th (Constructor &amp; Destrucctor)/Class3th (Constructor &amp; Destrucctor).vcxproj" Id="bac28d6b-be33-4efa-9453-c217d973728d" />
+  <Project Path="../Class4th (Inheritance)/Class4th (Inheritance).vcxproj" Id="679e99cf-cd30-427a-b162-6a52f77d97e2" />
+  <Project Path="../Class5th (Polymorphism)/Class5th (Polymorphism).vcxproj" Id="6717e477-4850-4279-bcea-82733f7235bc" />
+  <Project Path="../Class6th (Abstract)/Class6th (Abstract).vcxproj" Id="87e983e0-b902-4201-93ec-8f553df62107" />
+  <Project Path="../Class7th (Encapsulation)/Class7th (Encapsulation).vcxproj" Id="31ebaa05-d6ec-4130-9385-de4da907af2b" />
+  <Project Path="../Class8th (Template)/Class8th (Template).vcxproj" Id="94849d5b-81b6-46cf-b834-6016e258c4f9" />
+  <Project Path="Program.vcxproj" Id="f6ce2a38-1d76-4734-a348-82975ccd0b45" />
+</Solution>

@@ -1,4 +1,12 @@
-﻿  Container.cpp
+﻿  Material.cpp
   Program.cpp
-C:\Users\Nalka\Desktop\Program_Game-\Program\Container.cpp(14,1): error C2760: 구문 오류: 여기서 '}'은(는) 예상치 못한 오류였습니다. 예상된 오류는 ';'였습니다
+C:\Users\Nalka\OneDrive\Desktop\Program_Game-\Program\Material.cpp(4,11): error C2084: 'Material::Material(void)' 함수에 이미 본문이 있습니다.
+      C:\Users\Nalka\OneDrive\Desktop\Program_Game-\Program\Material.h(6,2):
+      'Material::Material'의 이전 정의를 참조하십시오.
+  
+C:\Users\Nalka\OneDrive\Desktop\Program_Game-\Program\Material.cpp(9,12): error C2084: 'Material::~Material(void)' 함수에 이미 본문이 있습니다.
+      C:\Users\Nalka\OneDrive\Desktop\Program_Game-\Program\Material.h(8,3):
+      'Material::~Material'의 이전 정의를 참조하십시오.
+  
+  Resource.cpp
   코드를 생성하고 있습니다...
