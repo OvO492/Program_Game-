@@ -7,6 +7,12 @@
       "RelativeMoniker": "D:0:0:{F6CE2A38-1D76-4734-A348-82975CCD0B45}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{71C145A2-FE26-41F8-8923-A6975F1480CA}|..\\Class11th (Container Adapter)\\Class11th (Container Adapter).vcxproj|C:\\Users\\Nalka\\OneDrive\\Desktop\\Program_Game-\\Class11th (Container Adapter)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DAA589E-866E-4D2B-B91B-8F866FF60980}|..\\Class 10th(Linear Container\\Class 10th(Linear Container.vcxproj|C:\\Users\\Nalka\\OneDrive\\Desktop\\Program_Game-\\Class 10th(Linear Container\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4CDB0C36-1AA3-4CE5-B6EA-1E5B01E65019}|..\\Class9th (Smart pointer)\\Class9th (Smart pointer).vcxproj|C:\\Users\\Nalka\\OneDrive\\Desktop\\Program_Game-\\Class9th (Smart pointer)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -17,19 +23,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Nalka\\OneDrive\\Desktop\\Program_Game-\\Class11th (Container Adapter)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class11th (Container Adapter)\\Source.cpp",
+              "ToolTip": "C:\\Users\\Nalka\\OneDrive\\Desktop\\Program_Game-\\Class11th (Container Adapter)\\Source.cpp",
+              "RelativeToolTip": "..\\Class11th (Container Adapter)\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-10T12:29:37.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Nalka\\OneDrive\\Desktop\\Program_Game-\\Class 10th(Linear Container\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class 10th(Linear Container\\Source.cpp",
+              "ToolTip": "C:\\Users\\Nalka\\OneDrive\\Desktop\\Program_Game-\\Class 10th(Linear Container\\Source.cpp",
+              "RelativeToolTip": "..\\Class 10th(Linear Container\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-10T11:14:58.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Nalka\\OneDrive\\Desktop\\Program_Game-\\Class9th (Smart pointer)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class9th (Smart pointer)\\Source.cpp",
               "ToolTip": "C:\\Users\\Nalka\\OneDrive\\Desktop\\Program_Game-\\Class9th (Smart pointer)\\Source.cpp",
               "RelativeToolTip": "..\\Class9th (Smart pointer)\\Source.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-06T12:15:32.483Z"
+              "WhenOpened": "2026-03-06T12:15:32.483Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -39,7 +72,7 @@
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\Nalka\\OneDrive\\Desktop\\Program_Game-\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAQwAMAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-03-06T11:01:47.976Z",
               "EditorCaption": ""
